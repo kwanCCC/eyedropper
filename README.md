@@ -11,5 +11,7 @@ Original meaning is a part of Fountain pen named Filling mechanisms.
  - [ ] Support one-way queue
 - cache
  - [ ] LRU cache
+- metrics
+ - [ ] Histogram
 - distribute
  - [ ] ?
